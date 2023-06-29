@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Rize](https://github.com/ayahrosanally/rize)
-- 🌱 I’m currently learning how to use React Native to advance [RCFTA-App](https://github.com/ayahrosanally/rcfta-app)
 - 📫 How to reach me: ayah.rosanally@mail.utoronto.ca
 - 😄 Pronouns: https://pronoun.is/she
 - ⚡ Fun Fact: cue brain fart 😳
