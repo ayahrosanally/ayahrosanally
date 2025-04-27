@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: ayah.rosanally@mail.utoronto.ca
-- 😄 Pronouns: https://pronoun.is/she
-- ⚡ Fun Fact: cue brain fart 😳
+- 📫 How to reach me: rosanallyayah@gmail.com
 
  ![Ayah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayahrosanally&show_icons=true&theme=radical)
 
